@@ -1,0 +1,410 @@
+{
+  "Matemática": [
+    {
+      "question": "Quanto é 2 + 2?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Quanto é 5 - 3?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Quanto é 3 x 3?",
+      "options": [
+        "6",
+        "9",
+        "12",
+        "3"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Quanto é 10 ÷ 2?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "question": "Quanto é 7 + 1?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Quanto é 6 - 4?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Quanto é 4 x 2?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Quanto é 9 ÷ 3?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Quanto é 1 + 8?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Quanto é 2 x 5?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answerIndex": 3
+    }
+  ],
+  "Geografia": [
+    {
+      "question": "Qual é o maior oceano do mundo?",
+      "options": [
+        "Atlântico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Em que continente fica o Brasil?",
+      "options": [
+        "América do Norte",
+        "América do Sul",
+        "África",
+        "Europa"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Qual é o país onde se fala espanhol e fica na América do Sul?",
+      "options": [
+        "Brasil",
+        "Argentina",
+        "Portugal",
+        "Itália"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Qual é a capital do Brasil?",
+      "options": [
+        "São Paulo",
+        "Brasília",
+        "Rio de Janeiro",
+        "Salvador"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Onde fica a Pirâmide de Gizé?",
+      "options": [
+        "México",
+        "Etiópia",
+        "Egito",
+        "Índia"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Qual desses é um rio famoso?",
+      "options": [
+        "Nilo",
+        "Everest",
+        "Sahara",
+        "Alpes"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Qual é o maior continente?",
+      "options": [
+        "África",
+        "Antártica",
+        "Ásia",
+        "Europa"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Qual é a capital da França?",
+      "options": [
+        "Paris",
+        "Lyon",
+        "Marseille",
+        "Nice"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Qual é o ponto mais alto do mundo?",
+      "options": [
+        "K2",
+        "Everest",
+        "Aconcágua",
+        "Mont Blanc"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Onde está o deserto do Saara?",
+      "options": [
+        "América do Sul",
+        "África",
+        "Ásia",
+        "Austrália"
+      ],
+      "answerIndex": 1
+    }
+  ],
+  "História": [
+    {
+      "question": "Quem foi o primeiro presidente do Brasil?",
+      "options": [
+        "Getúlio Vargas",
+        "Deodoro da Fonseca",
+        "Juscelino Kubitschek",
+        "Pedro Álvares Cabral"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Em que ano foi proclamada a independência do Brasil?",
+      "options": [
+        "1822",
+        "1889",
+        "1500",
+        "1808"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Quem chegou ao Brasil em 1500?",
+      "options": [
+        "Pedro Álvares Cabral",
+        "Cristóvão Colombo",
+        "Vasco da Gama",
+        "Fernão de Magalhães"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Qual invenção revolucionou as comunicações no século XIX?",
+      "options": [
+        "Telefone",
+        "Imprensa",
+        "Computador",
+        "Televisão"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Qual guerra ocorreu entre 1939 e 1945?",
+      "options": [
+        "Primeira Guerra Mundial",
+        "Guerra do Paraguai",
+        "Segunda Guerra Mundial",
+        "Guerra Fria"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Quem foi um importante líder da independência dos EUA?",
+      "options": [
+        "George Washington",
+        "Napoleão",
+        "Cleópatra",
+        "Genghis Khan"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Onde fica a cidade de Roma, berço do Império Romano?",
+      "options": [
+        "Itália",
+        "Espanha",
+        "Grécia",
+        "Turquia"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Qual civilização construiu as pirâmides do Egito?",
+      "options": [
+        "Maias",
+        "Incas",
+        "Egípcios",
+        "Romanos"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Quem inventou a lâmpada incandescente (ampliamente creditado)?",
+      "options": [
+        "Tesla",
+        "Edison",
+        "Newton",
+        "Galileu"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Qual era o principal transporte antes dos carros?",
+      "options": [
+        "Bicicleta",
+        "Cavalo",
+        "Avião",
+        "Trem"
+      ],
+      "answerIndex": 1
+    }
+  ],
+  "Variedades": [
+    {
+      "question": "Qual animal diz 'miau'?",
+      "options": [
+        "Cachorro",
+        "Gato",
+        "Vaca",
+        "Cavalo"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Qual cor se forma ao misturar azul e amarelo?",
+      "options": [
+        "Verde",
+        "Roxo",
+        "Laranja",
+        "Marrom"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Qual desses é um instrumento musical de corda?",
+      "options": [
+        "Flauta",
+        "Violão",
+        "Trompete",
+        "Bateria"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Quantas pernas tem uma aranha?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "4"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Qual fruta é amarela por fora e branca por dentro, muito doce?",
+      "options": [
+        "Maçã",
+        "Banana",
+        "Laranja",
+        "Uva"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Qual é o símbolo de paz mundial?",
+      "options": [
+        "Coração",
+        "Pomba",
+        "Coroa",
+        "Chave"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Qual é o combustível que faz carros andarem (geralmente)?",
+      "options": [
+        "Água",
+        "Gasolina",
+        "Leite",
+        "Ar"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Qual é o som que o pato faz?",
+      "options": [
+        "Miau",
+        "Au au",
+        "Quack",
+        "Bee"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Qual é o nome do planeta em que vivemos?",
+      "options": [
+        "Marte",
+        "Vênus",
+        "Terra",
+        "Júpiter"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "question": "Qual é a estação do ano mais fria?",
+      "options": [
+        "Verão",
+        "Outono",
+        "Inverno",
+        "Primavera"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

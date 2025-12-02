@@ -1,0 +1,37 @@
+name: quiz_kids_adventure
+description: Quiz Kids - Adventure Quest (Flutter). Tema Adventure Quest com trilha de níveis.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  google_fonts: ^6.1.0
+  audioplayers: 6.5.1
+  lottie: ^3.1.0
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/questions.json
+    - assets/sounds/correct.mp3
+    - assets/sounds/wrong.mp3
+    - assets/images/mascote.png
+    - assets/images/map_background.png
+    - assets/images/math.png
+    - assets/images/geo.png
+    - assets/images/history.png
+    - assets/images/mix.png 
+    - assets\images\default.png 
+
+
